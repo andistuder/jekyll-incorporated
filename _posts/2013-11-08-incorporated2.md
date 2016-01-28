@@ -1,11 +1,11 @@
 ---
 layout: post
 
-title: Jekyll Incorporated Features 2
+title: Worktable and desk
 subtitle: "What's in the box"
-cover_image: table.jpg
+cover_image: desk.jpg
 
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: "A worktable that transforms into a desk"
 
 author:
   name: Karri Saarinen
